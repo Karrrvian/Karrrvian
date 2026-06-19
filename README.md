@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Laskar Al Hilal Hervian (Vian) 👋
 
-<!--
-**Karrrvian/Karrrvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Information Systems student who loves exploring technology and building digital solutions. I combine logical programming with AI-assisted tools to develop efficient web applications and data automation scripts.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Undergraduate Information Systems Student
+- 💻 Passionate about Web Development and Python Automation
+- 🛠️ Adaptive Developer utilizing AI-Assisted workflows (Prompt Engineering)
+- ⏱️ Committing 4–6 hours daily to building projects and learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java, HTML, CSS, JavaScript
+- **Databases & Environments:** MySQL, XAMPP
+- **Tools:** VS Code, Git, GitHub
+
+## 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/laskar-al-hilal-hervian] (www.linkedin.com/in/laskar-al-hilal-hervian-720604416)
+- **Open to:** Part-time remote projects, front-end slicing, and python scripting.
+
+*"Efficiency is doing things right; effectiveness is doing the right things."*
